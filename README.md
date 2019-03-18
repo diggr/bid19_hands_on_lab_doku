@@ -138,8 +138,11 @@ Social Media Kommentare sind urheberrechtlich geschützte "Mikropublikationen"
 ### Weiterführende Links:
 
 - Handreichungen:
+    - [Informationen zu rechtlichen Aspekten bei der Handhabung von Sprachkorpora. (v.a. Teil 1.1 und Teil 2.2)](http://www.dfg.de/download/pdf/foerderung/grundlagen_dfg_foerderung/informationen_fachwissenschaften/geisteswissenschaften/standards_recht.pdf)
+    - [Uwe Jensen (2012): Leitlinien zum Management von Forschungsdaten. Sozialwissenschaftliche Umfragedaten. GESIS Technical Report 2012|07. (v.a. S. 13ff.)](http://www.gesis.org/fileadmin/upload/forschung/publikationen/gesis_reihen/gesis_methodenberichte/2012/TechnicalReport_2012-07.pdf)
     - https://verwaltung.uni-koeln.de/stabsstelle02.3/content/forschungsdatenschutz/index_ger.html
     - https://www.internetrecht-nuernberg.de/internetrecht/datenschutzrecht.html
+    - [Michael Häder (2009): Der Datenschutz in den Sozialwissenschaften. RatSWD Working Paper No. 90.](http://www.ratswd.de/download/RatSWD_WP_2009/RatSWD_WP_90.pdf)
 
 - Rechtstexte:
     - https://dsgvo-gesetz.de/
